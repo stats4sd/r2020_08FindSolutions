@@ -7,7 +7,7 @@ output:
     df_print: default
 runtime: shiny_prerendered
 description: >
-  Tips for searching for solutions to your R problems.
+  Tips and links for searching for solutions to your R problems.
 ---
 
 ```{r setup, include=FALSE}
