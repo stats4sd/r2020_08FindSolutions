@@ -1,0 +1,801 @@
+Gender,Age,AgeGrp,PoliticalParty,PoliticalView,Education,Race,ApproveTrump,InformedClimateOpinion
+Female,55,55-64,Independent,Moderate,Some college,White,Strongly Disapprove,Well-informed
+Female,34,25-34,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,49,45-54,DK/REF,Moderate,College degree,White,Strongly Approve,Well-informed
+Male,41,35-44,Independent,Strong Conservative,High school or less,White,Neither approve nor disapprove,Not Very Well-informed
+Female,65,65+,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,62,55-64,Strong Republican,Not Very Strong Conservative,Graduate degree,White,Somewhat Approve,Well-informed
+Female,83,65+,Independent,Moderate,High school or less,White,Somewhat Approve,Not Very Well-informed
+Male,25,25-34,Independent,Strong Conservative,Some college,Black,Neither approve nor disapprove,Well-informed
+Male,46,45-54,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,44,35-44,Not Very strong Democrat,Not Very Strong Liberal,College degree,White,Strongly Disapprove,Not Very Well-informed
+Male,56,55-64,DK/REF,Not Very Strong Liberal,High school or less,White,Strongly Disapprove,Well-informed
+Male,69,65+,Strong Republican,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Male,55,55-64,DK/REF,DK/REF,Some college,Black,DK/REF,Not Very Well-informed
+Male,22,18-24,Not Very strong Democrat,Moderate,Some college,White,Somewhat Approve,Well-informed
+Male,67,65+,Strong Democrat,Moderate,High school or less,White,Strongly Disapprove,Well-informed
+Female,39,35-44,Independent,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Male,74,65+,Not Very strong Democrat,Moderate,Graduate degree,White,Neither approve nor disapprove,Well-informed
+Female,69,65+,Strong Democrat,Moderate,Some college,White,Strongly Disapprove,Well-informed
+Male,47,45-54,Strong Republican,Strong Conservative,College degree,White,Somewhat Approve,Not Very Well-informed
+Female,69,65+,Not very Strong Republican,Moderate,Some college,White,Strongly Disapprove,Well-informed
+Male,20,18-24,Not very Strong Republican,Strong Conservative,Some college,Latino,Strongly Approve,Well-informed
+Male,21,18-24,Independent,Moderate,Some college,Asian,Neither approve nor disapprove,Not Very Well-informed
+Male,37,35-44,Independent,Moderate,High school or less,Black,Strongly Disapprove,Well-informed
+Male,20,18-24,Independent,Moderate,Some college,White,Somewhat Disapprove,Well-informed
+Female,80,65+,Independent,Not Very Strong Liberal,Some college,Black,Strongly Disapprove,Well-informed
+Male,63,55-64,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Male,42,35-44,Strong Republican,DK/REF,Some college,Black,Strongly Approve,Well-informed
+Male,74,65+,Independent,Not Very Strong Conservative,Some college,White,Somewhat Approve,Well-informed
+Female,59,55-64,Independent,Moderate,Graduate degree,White,DK/REF,Not Very Well-informed
+Female,68,65+,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Female,86,65+,Strong Republican,DK/REF,DK/REF,White,Strongly Approve,DK/REF
+Male,87,65+,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,67,65+,Independent,Strong Conservative,College degree,White,Somewhat Approve,Well-informed
+Female,78,65+,Strong Democrat,Strong Liberal,High school or less,White,Strongly Disapprove,Not Very Well-informed
+Male,24,18-24,Independent,Not Very Strong Conservative,College degree,White,Strongly Disapprove,Well-informed
+Female,71,65+,Independent,Not Very Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,55,55-64,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,50,45-54,DK/REF,DK/REF,Graduate degree,DK/REF,Strongly Disapprove,Not Very Well-informed
+Female,94,65+,DK/REF,Moderate,DK/REF,DK/REF,Somewhat Disapprove,Not Very Well-informed
+Male,60,55-64,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Male,71,65+,Independent,Strong Conservative,Some college,White,Strongly Approve,Not Very Well-informed
+Female,18,18-24,Strong Democrat,Moderate,High school or less,White,Somewhat Disapprove,Well-informed
+DK/REF,90,65+,Not Very strong Democrat,Strong Liberal,Some college,White,Somewhat Approve,Well-informed
+Male,80,65+,DK/REF,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Male,70,65+,Independent,Strong Conservative,High school or less,Black,Neither approve nor disapprove,Not Very Well-informed
+Female,50,45-54,Independent,Moderate,Graduate degree,White,Somewhat Approve,Not Very Well-informed
+Female,63,55-64,Strong Democrat,Moderate,College degree,Other: SPECIFY,Somewhat Disapprove,Well-informed
+Female,90,65+,Independent,Moderate,Some college,White,Somewhat Approve,Well-informed
+Female,80,65+,Independent,Not Very Strong Conservative,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,60,55-64,Strong Democrat,Strong Liberal,Some college,White,Strongly Disapprove,Well-informed
+Female,62,55-64,Strong Democrat,Strong Liberal,Some college,White,Strongly Disapprove,Well-informed
+Male,65,65+,Independent,Moderate,College degree,Other: SPECIFY,Somewhat Approve,Well-informed
+Female,56,55-64,Strong Republican,Moderate,High school or less,White,Somewhat Approve,Well-informed
+Female,79,65+,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,50,45-54,Strong Republican,Moderate,Some college,White,Somewhat Approve,Well-informed
+Male,86,65+,Independent,DK/REF,Graduate degree,White,Strongly Approve,Not Very Well-informed
+Female,59,55-64,Strong Democrat,Moderate,High school or less,White,Strongly Disapprove,Well-informed
+Male,81,65+,Not very Strong Republican,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,79,65+,Strong Democrat,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Female,85,65+,Strong Republican,Moderate,Some college,White,Somewhat Approve,Not Very Well-informed
+Male,66,65+,Strong Republican,Not Very Strong Conservative,Graduate degree,White,Somewhat Approve,Well-informed
+Female,53,45-54,Strong Democrat,Moderate,Some college,White,Strongly Disapprove,Not Very Well-informed
+Male,60,55-64,Independent,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+DK/REF,36,35-44,DK/REF,DK/REF,High school or less,DK/REF,Neither approve nor disapprove,DK/REF
+Female,84,65+,Strong Republican,Moderate,Graduate degree,White,DK/REF,Not Very Well-informed
+Male,63,55-64,DK/REF,Not Very Strong Liberal,Some college,White,Strongly Approve,Not Very Well-informed
+Female,60,55-64,Independent,Moderate,High school or less,White,Neither approve nor disapprove,Not Very Well-informed
+Female,76,65+,Strong Democrat,DK/REF,College degree,White,Strongly Disapprove,Well-informed
+Female,80,65+,Strong Democrat,Not Very Strong Conservative,Some college,White,DK/REF,Well-informed
+Female,81,65+,Independent,Moderate,High school or less,White,Somewhat Approve,Well-informed
+Male,47,45-54,Strong Democrat,Not Very Strong Conservative,College degree,White,Somewhat Approve,Not Very Well-informed
+Female,89,65+,Strong Democrat,Moderate,College degree,White,Strongly Disapprove,Not Very Well-informed
+Female,65,65+,Independent,Moderate,Some college,White,Somewhat Disapprove,Not Very Well-informed
+Female,56,55-64,Independent,DK/REF,High school or less,Black,Neither approve nor disapprove,Not Very Well-informed
+Female,63,55-64,DK/REF,DK/REF,High school or less,White,Strongly Approve,DK/REF
+Male,63,55-64,Independent,DK/REF,College degree,DK/REF,Somewhat Disapprove,Well-informed
+Female,81,65+,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,59,55-64,Strong Democrat,Strong Conservative,Some college,Black,Strongly Disapprove,Well-informed
+Female,72,65+,Strong Democrat,Strong Liberal,Graduate degree,Other: SPECIFY,Strongly Disapprove,Well-informed
+Male,75,65+,Strong Republican,DK/REF,Some college,Latino,Strongly Approve,Not Very Well-informed
+Female,45,45-54,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,29,25-34,Strong Democrat,Strong Conservative,Some college,Latino,Somewhat Disapprove,Well-informed
+Female,33,25-34,Independent,Moderate,College degree,White,Neither approve nor disapprove,Well-informed
+Female,60,55-64,Strong Republican,Moderate,College degree,White,Strongly Approve,Well-informed
+Male,58,55-64,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Not Very Well-informed
+Female,52,45-54,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Not Very Well-informed
+Female,77,65+,Independent,DK/REF,College degree,White,Neither approve nor disapprove,Not Very Well-informed
+Female,62,55-64,Independent,Moderate,High school or less,Black,Neither approve nor disapprove,Well-informed
+Female,40,35-44,Strong Republican,Moderate,Some college,White,Strongly Approve,Well-informed
+Male,31,25-34,Independent,Moderate,Some college,Black,Strongly Disapprove,Not Very Well-informed
+Male,71,65+,DK/REF,Moderate,Graduate degree,White,Neither approve nor disapprove,Well-informed
+Female,75,65+,Strong Republican,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Female,73,65+,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,66,65+,DK/REF,DK/REF,College degree,DK/REF,Strongly Disapprove,Well-informed
+Male,52,45-54,Independent,Moderate,Graduate degree,White,Somewhat Approve,Not Very Well-informed
+Male,69,65+,Strong Republican,Strong Conservative,College degree,White,Somewhat Approve,Well-informed
+Male,23,18-24,Independent,Not Very Strong Liberal,Some college,White,Somewhat Disapprove,Well-informed
+Female,68,65+,Strong Democrat,Strong Conservative,Some college,Black,Strongly Disapprove,Not Very Well-informed
+Male,40,35-44,DK/REF,Moderate,College degree,White,DK/REF,Not Very Well-informed
+Female,60,55-64,Independent,Moderate,College degree,White,Somewhat Approve,Well-informed
+Female,71,65+,Strong Republican,Not Very Strong Liberal,High school or less,White,Strongly Approve,Not Very Well-informed
+Female,32,25-34,Independent,Moderate,High school or less,White,Neither approve nor disapprove,Not Very Well-informed
+Male,54,45-54,Not very Strong Republican,Not Very Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,73,65+,DK/REF,Moderate,High school or less,White,Strongly Approve,Well-informed
+Male,60,55-64,Not very Strong Republican,Moderate,Some college,Latino,Strongly Approve,Well-informed
+Male,75,65+,Independent,Moderate,Some college,White,Somewhat Approve,Well-informed
+Male,35,35-44,Independent,Strong Liberal,Graduate degree,Latino,Strongly Disapprove,Well-informed
+Male,35,35-44,Strong Democrat,Moderate,Graduate degree,Black,Strongly Disapprove,Well-informed
+Female,48,45-54,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,49,45-54,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Male,36,35-44,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Not Very Well-informed
+Female,50,45-54,Not very Strong Republican,Not Very Strong Conservative,College degree,White,Somewhat Approve,Not Very Well-informed
+Male,61,55-64,Strong Republican,Strong Conservative,College degree,White,Somewhat Approve,Well-informed
+Female,41,35-44,Not Very strong Democrat,Moderate,College degree,White,Neither approve nor disapprove,Not Very Well-informed
+Male,50,45-54,Strong Democrat,Strong Liberal,Some college,Black,Strongly Disapprove,Not Very Well-informed
+DK/REF,71,65+,Independent,Strong Conservative,College degree,DK/REF,Strongly Approve,Not Very Well-informed
+Female,60,55-64,Independent,Moderate,Some college,White,Somewhat Approve,Well-informed
+Male,36,35-44,Not Very strong Democrat,DK/REF,Some college,Black,Strongly Disapprove,Not Very Well-informed
+Female,51,45-54,DK/REF,Strong Conservative,College degree,Black,Strongly Disapprove,Not Very Well-informed
+Female,65,65+,Independent,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Male,31,25-34,Not Very strong Democrat,Moderate,High school or less,Latino,Somewhat Disapprove,Not Very Well-informed
+Female,25,25-34,Strong Democrat,Moderate,College degree,DK/REF,Strongly Disapprove,Not Very Well-informed
+Male,30,25-34,Not Very strong Democrat,DK/REF,College degree,DK/REF,Strongly Disapprove,Well-informed
+Male,60,55-64,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Male,52,45-54,Independent,Moderate,Some college,White,Somewhat Disapprove,DK/REF
+Female,42,35-44,Not Very strong Democrat,Moderate,Some college,White,Somewhat Approve,Not Very Well-informed
+Male,49,45-54,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,21,18-24,Strong Democrat,Not Very Strong Conservative,High school or less,Latino,Strongly Disapprove,Not Very Well-informed
+Other,43,35-44,Independent,Moderate,College degree,Other: SPECIFY,Somewhat Disapprove,Well-informed
+Female,34,25-34,DK/REF,Strong Liberal,Graduate degree,Latino,Strongly Disapprove,Well-informed
+Male,50,45-54,Strong Democrat,Not Very Strong Conservative,College degree,Black,DK/REF,Not Very Well-informed
+Female,58,55-64,DK/REF,DK/REF,Some college,White,DK/REF,Not Very Well-informed
+Male,52,45-54,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Male,76,65+,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Female,58,55-64,Strong Democrat,Moderate,High school or less,Black,DK/REF,Not Very Well-informed
+Female,73,65+,Strong Democrat,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Female,72,65+,Independent,Moderate,Graduate degree,White,Somewhat Disapprove,Well-informed
+Female,84,65+,Strong Republican,Not Very Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Male,59,55-64,Independent,Moderate,College degree,White,Strongly Approve,Not Very Well-informed
+Male,69,65+,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,95,65+,Strong Democrat,Not Very Strong Liberal,Graduate degree,White,DK/REF,Well-informed
+Other,40,35-44,Independent,DK/REF,Graduate degree,DK/REF,Strongly Disapprove,Well-informed
+Female,77,65+,DK/REF,Not Very Strong Conservative,Some college,White,Strongly Disapprove,Not Very Well-informed
+Male,71,65+,Independent,Not Very Strong Liberal,Graduate degree,White,Strongly Approve,Well-informed
+Female,64,55-64,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,78,65+,Independent,Moderate,High school or less,White,Strongly Approve,Well-informed
+Male,86,65+,Independent,DK/REF,High school or less,White,Strongly Approve,Well-informed
+Male,80,65+,Strong Republican,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Female,62,55-64,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Not Very Well-informed
+Female,67,65+,Independent,Not Very Strong Liberal,Some college,White,Strongly Disapprove,Well-informed
+Male,83,65+,Independent,DK/REF,High school or less,White,Somewhat Approve,Well-informed
+Female,75,65+,Strong Democrat,Moderate,High school or less,Asian,Strongly Disapprove,Not Very Well-informed
+Female,79,65+,DK/REF,Moderate,High school or less,White,Strongly Approve,Well-informed
+Female,74,65+,Independent,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Male,71,65+,Strong Democrat,Not Very Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,77,65+,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,71,65+,Independent,Moderate,High school or less,Black,Strongly Disapprove,Well-informed
+Male,65,65+,Strong Republican,Not Very Strong Conservative,College degree,White,Somewhat Approve,Not Very Well-informed
+Male,43,35-44,Independent,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Female,70,65+,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,83,65+,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Female,63,55-64,Strong Democrat,Strong Liberal,Some college,White,Strongly Disapprove,Well-informed
+Female,82,65+,Not Very strong Democrat,Moderate,Some college,White,Somewhat Disapprove,DK/REF
+Male,49,45-54,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,70,65+,Strong Democrat,Moderate,Some college,White,Strongly Disapprove,Well-informed
+Male,57,55-64,Independent,Strong Liberal,Graduate degree,DK/REF,Somewhat Approve,Well-informed
+Male,66,65+,Independent,Moderate,Graduate degree,White,Somewhat Disapprove,Well-informed
+Female,72,65+,DK/REF,DK/REF,College degree,White,DK/REF,Not Very Well-informed
+Female,85,65+,DK/REF,Not Very Strong Conservative,High school or less,White,Somewhat Disapprove,Not Very Well-informed
+Male,65,65+,DK/REF,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,60,55-64,Strong Democrat,Moderate,Some college,White,Strongly Disapprove,Well-informed
+Female,76,65+,Strong Democrat,Strong Liberal,Graduate degree,Black,Strongly Disapprove,Well-informed
+Female,61,55-64,Not very Strong Republican,Moderate,College degree,White,DK/REF,Not Very Well-informed
+Other,77,65+,Independent,Moderate,High school or less,White,Strongly Disapprove,Not Very Well-informed
+Female,83,65+,Strong Democrat,DK/REF,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,60,55-64,Independent,Moderate,Some college,White,Strongly Approve,Well-informed
+Female,68,65+,Strong Democrat,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Female,55,55-64,Strong Republican,Strong Conservative,College degree,Latino,Strongly Approve,Well-informed
+Female,72,65+,Not Very strong Democrat,Strong Liberal,Graduate degree,White,DK/REF,Well-informed
+Female,63,55-64,Independent,Moderate,Graduate degree,White,Neither approve nor disapprove,Not Very Well-informed
+Female,60,55-64,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Not Very Well-informed
+Female,58,55-64,Strong Democrat,Moderate,Some college,Black,Neither approve nor disapprove,Well-informed
+Female,55,55-64,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Female,81,65+,Independent,Moderate,Graduate degree,White,Neither approve nor disapprove,Well-informed
+Female,75,65+,Strong Democrat,Strong Liberal,High school or less,Black,Strongly Disapprove,Well-informed
+Female,89,65+,Strong Democrat,Moderate,Some college,Black,Strongly Disapprove,Well-informed
+Male,73,65+,Independent,Strong Conservative,Some college,White,Somewhat Approve,Well-informed
+Male,54,45-54,DK/REF,DK/REF,Graduate degree,Black,Somewhat Approve,Well-informed
+Male,64,55-64,Independent,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Male,69,65+,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,75,65+,Strong Republican,Moderate,High school or less,White,Neither approve nor disapprove,Well-informed
+Female,67,65+,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Not Very Well-informed
+Female,82,65+,Strong Republican,Moderate,High school or less,White,Neither approve nor disapprove,Not Very Well-informed
+Female,75,65+,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Female,52,45-54,Independent,Not Very Strong Liberal,College degree,White,Neither approve nor disapprove,Well-informed
+Female,78,65+,Strong Republican,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Female,80,65+,Independent,Moderate,High school or less,White,Strongly Approve,Well-informed
+Male,57,55-64,Strong Republican,Moderate,College degree,White,Somewhat Approve,Not Very Well-informed
+Female,71,65+,Independent,Strong Conservative,Some college,White,Strongly Approve,Not Very Well-informed
+Female,67,65+,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,79,65+,Strong Democrat,Moderate,High school or less,Black,Strongly Disapprove,Not Very Well-informed
+Male,78,65+,DK/REF,Moderate,Some college,White,Strongly Approve,Well-informed
+Female,56,55-64,DK/REF,Not Very Strong Liberal,College degree,White,Somewhat Disapprove,Well-informed
+Male,80,65+,Independent,Strong Conservative,High school or less,White,Somewhat Approve,Well-informed
+Female,66,65+,Strong Republican,Strong Conservative,Some college,White,Neither approve nor disapprove,Not Very Well-informed
+Male,69,65+,Not very Strong Republican,Strong Conservative,College degree,White,Somewhat Approve,Well-informed
+Female,55,55-64,Not Very strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,55,55-64,Strong Republican,Strong Conservative,High school or less,White,Strongly Approve,Not Very Well-informed
+Female,67,65+,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Not Very Well-informed
+Female,68,65+,Strong Democrat,Strong Liberal,Graduate degree,Black,Strongly Disapprove,Well-informed
+Male,83,65+,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,69,65+,Strong Democrat,Not Very Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,78,65+,Independent,Not Very Strong Conservative,High school or less,White,Somewhat Approve,Well-informed
+Female,67,65+,Not Very strong Democrat,Moderate,College degree,White,Somewhat Disapprove,Well-informed
+Female,69,65+,Strong Democrat,Not Very Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,70,65+,Strong Democrat,Strong Liberal,High school or less,White,Strongly Disapprove,Well-informed
+Female,83,65+,Independent,Moderate,Graduate degree,DK/REF,Strongly Disapprove,Not Very Well-informed
+Male,67,65+,Strong Democrat,Strong Conservative,High school or less,White,Somewhat Approve,Not Very Well-informed
+Male,86,65+,Strong Democrat,Moderate,High school or less,White,DK/REF,Well-informed
+Male,50,45-54,Independent,Moderate,Some college,White,Somewhat Approve,Not Very Well-informed
+Female,77,65+,Strong Republican,Strong Liberal,High school or less,Black,Somewhat Approve,Well-informed
+Female,75,65+,Not very Strong Republican,Moderate,Some college,White,Strongly Approve,Not Very Well-informed
+Female,83,65+,Independent,Not Very Strong Liberal,Some college,White,Strongly Disapprove,Well-informed
+Female,70,65+,Independent,Not Very Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,79,65+,Strong Democrat,Moderate,DK/REF,White,Strongly Disapprove,Not Very Well-informed
+Female,70,65+,Independent,Moderate,Some college,White,Strongly Disapprove,Well-informed
+Male,44,35-44,DK/REF,DK/REF,High school or less,Black,DK/REF,Well-informed
+Other,65,65+,DK/REF,Strong Liberal,Graduate degree,Black,Strongly Approve,Not Very Well-informed
+DK/REF,82,65+,DK/REF,Strong Conservative,High school or less,White,DK/REF,Not Very Well-informed
+Male,64,55-64,Strong Republican,Strong Conservative,College degree,White,Neither approve nor disapprove,Well-informed
+Male,83,65+,Strong Democrat,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Female,74,65+,Strong Republican,Strong Conservative,High school or less,White,Strongly Approve,Not Very Well-informed
+Female,77,65+,Strong Republican,Moderate,Graduate degree,White,Strongly Approve,Well-informed
+Male,21,18-24,DK/REF,Strong Liberal,Some college,Latino,Strongly Disapprove,Not Very Well-informed
+Male,49,45-54,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,51,45-54,Strong Republican,Strong Conservative,Some college,White,Somewhat Approve,Not Very Well-informed
+Female,75,65+,DK/REF,Moderate,Some college,White,Strongly Approve,DK/REF
+Female,60,55-64,Strong Democrat,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Male,70,65+,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,62,55-64,Independent,Moderate,High school or less,White,Neither approve nor disapprove,Well-informed
+Male,60,55-64,Strong Democrat,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Female,61,55-64,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Male,66,65+,DK/REF,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Male,78,65+,Strong Democrat,Strong Liberal,Some college,White,Somewhat Disapprove,Well-informed
+Male,56,55-64,Not very Strong Republican,Moderate,College degree,White,Strongly Approve,Well-informed
+Male,34,25-34,Independent,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Female,62,55-64,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,23,18-24,Strong Democrat,Strong Liberal,College degree,Black,Strongly Disapprove,Well-informed
+Female,47,45-54,Strong Republican,Moderate,College degree,White,DK/REF,Not Very Well-informed
+Male,27,25-34,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,59,55-64,Strong Republican,Moderate,College degree,White,Somewhat Approve,Not Very Well-informed
+Male,73,65+,Independent,Moderate,High school or less,White,Strongly Disapprove,Well-informed
+Male,67,65+,Not Very strong Democrat,Moderate,College degree,White,Somewhat Approve,Not Very Well-informed
+Male,49,45-54,Not Very strong Democrat,Not Very Strong Liberal,Some college,Latino,Neither approve nor disapprove,Well-informed
+Male,50,45-54,Independent,Not Very Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,71,65+,Independent,Moderate,Graduate degree,White,Somewhat Disapprove,Not Very Well-informed
+Female,79,65+,Strong Democrat,Moderate,Some college,White,Strongly Approve,Well-informed
+Female,62,55-64,Strong Democrat,Moderate,College degree,Black,Strongly Disapprove,Not Very Well-informed
+Female,70,65+,DK/REF,DK/REF,High school or less,White,Strongly Disapprove,Well-informed
+Male,72,65+,Independent,Moderate,Graduate degree,Black,Somewhat Disapprove,Well-informed
+Female,77,65+,Strong Republican,Strong Conservative,High school or less,DK/REF,Strongly Approve,Well-informed
+Male,57,55-64,DK/REF,DK/REF,Graduate degree,White,Strongly Disapprove,Not Very Well-informed
+Male,45,45-54,Independent,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Female,62,55-64,Independent,Moderate,High school or less,White,Strongly Approve,Well-informed
+Female,59,55-64,Independent,Moderate,High school or less,White,Strongly Approve,Well-informed
+Female,64,55-64,Strong Democrat,Moderate,DK/REF,White,Strongly Disapprove,Well-informed
+Female,62,55-64,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,71,65+,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,52,45-54,Not very Strong Republican,Strong Conservative,High school or less,White,Somewhat Approve,Not Very Well-informed
+Female,91,65+,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Not Very Well-informed
+Female,80,65+,Independent,Moderate,Graduate degree,White,Neither approve nor disapprove,Well-informed
+Female,47,45-54,Independent,Moderate,Graduate degree,White,Strongly Approve,Well-informed
+DK/REF,55,55-64,Independent,Strong Conservative,College degree,Black,Strongly Approve,Well-informed
+Male,59,55-64,Strong Republican,Strong Conservative,High school or less,White,Somewhat Disapprove,Well-informed
+Female,53,45-54,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Male,61,55-64,Strong Democrat,Strong Conservative,College degree,White,Strongly Disapprove,Well-informed
+Female,48,45-54,Strong Democrat,Moderate,College degree,Black,Strongly Disapprove,Not Very Well-informed
+Female,85,65+,DK/REF,Moderate,High school or less,White,Strongly Disapprove,Not Very Well-informed
+Male,92,65+,DK/REF,Moderate,High school or less,Black,Strongly Disapprove,Not Very Well-informed
+Other,45,45-54,Independent,Moderate,High school or less,Black,Somewhat Approve,Not Very Well-informed
+Male,76,65+,DK/REF,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Female,67,65+,Not Very strong Democrat,Not Very Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,22,18-24,Strong Republican,Strong Conservative,College degree,Latino,Somewhat Approve,Well-informed
+Male,43,35-44,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,62,55-64,Strong Democrat,Strong Liberal,High school or less,White,DK/REF,Well-informed
+Male,78,65+,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,65,65+,Strong Democrat,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Female,37,35-44,Independent,Not Very Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,72,65+,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,67,65+,Independent,Moderate,Some college,White,Strongly Approve,Not Very Well-informed
+Female,70,65+,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Female,43,35-44,Strong Democrat,Not Very Strong Liberal,College degree,Black,Strongly Disapprove,Well-informed
+Male,62,55-64,Independent,DK/REF,Graduate degree,White,Strongly Approve,Well-informed
+Female,66,65+,DK/REF,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,36,35-44,Independent,Strong Liberal,College degree,White,Strongly Disapprove,Not Very Well-informed
+Male,81,65+,Independent,Strong Conservative,Graduate degree,White,Somewhat Approve,Well-informed
+Female,50,45-54,Independent,Moderate,College degree,Latino,Strongly Disapprove,Well-informed
+Female,49,45-54,Not Very strong Democrat,Moderate,College degree,Latino,Neither approve nor disapprove,Well-informed
+Female,51,45-54,Strong Democrat,Moderate,College degree,Black,Strongly Disapprove,Not Very Well-informed
+Female,44,35-44,Strong Republican,Strong Liberal,Some college,White,Strongly Approve,DK/REF
+Male,62,55-64,Strong Republican,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Male,50,45-54,Strong Democrat,Strong Liberal,Graduate degree,Black,Strongly Disapprove,Well-informed
+Female,63,55-64,DK/REF,Strong Conservative,College degree,White,Somewhat Approve,Well-informed
+Male,56,55-64,Independent,Moderate,High school or less,White,Strongly Approve,Well-informed
+Female,53,45-54,Independent,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Male,83,65+,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Not Very Well-informed
+Female,43,35-44,Strong Democrat,Moderate,College degree,White,Strongly Disapprove,Not Very Well-informed
+Male,31,25-34,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Male,37,35-44,Strong Republican,Strong Conservative,College degree,White,Somewhat Approve,Well-informed
+Female,60,55-64,DK/REF,DK/REF,College degree,Black,Strongly Disapprove,Well-informed
+Male,47,45-54,Independent,Not Very Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Female,85,65+,DK/REF,DK/REF,DK/REF,Black,DK/REF,DK/REF
+Male,50,45-54,Not Very strong Democrat,Moderate,High school or less,Black,Strongly Disapprove,Well-informed
+Male,75,65+,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Female,55,55-64,Strong Democrat,Strong Liberal,College degree,Black,Strongly Disapprove,Not Very Well-informed
+Female,86,65+,DK/REF,DK/REF,High school or less,Black,Strongly Disapprove,Well-informed
+Female,67,65+,Strong Democrat,Moderate,College degree,Latino,Strongly Disapprove,Well-informed
+Other,83,65+,DK/REF,DK/REF,High school or less,DK/REF,DK/REF,Well-informed
+Female,86,65+,Strong Democrat,DK/REF,High school or less,Black,Strongly Disapprove,Not Very Well-informed
+Female,62,55-64,Strong Democrat,Strong Liberal,College degree,Black,Strongly Disapprove,Well-informed
+Male,89,65+,Strong Republican,Moderate,High school or less,White,Strongly Approve,Not Very Well-informed
+Male,74,65+,Independent,Moderate,Some college,White,Strongly Disapprove,Well-informed
+Male,78,65+,Independent,Moderate,High school or less,Black,Somewhat Disapprove,Not Very Well-informed
+Female,62,55-64,Strong Democrat,Moderate,College degree,Black,Strongly Disapprove,Not Very Well-informed
+Male,65,65+,Strong Republican,Moderate,High school or less,White,Strongly Approve,Not Very Well-informed
+Male,80,65+,Independent,Moderate,College degree,White,Strongly Approve,Well-informed
+Male,37,35-44,Independent,Moderate,Some college,White,Strongly Disapprove,Well-informed
+Female,80,65+,Strong Republican,Moderate,Graduate degree,White,Strongly Approve,Well-informed
+Female,77,65+,Independent,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,45,45-54,Strong Republican,Moderate,Graduate degree,DK/REF,Strongly Approve,Not Very Well-informed
+Female,78,65+,Strong Republican,Strong Conservative,College degree,White,Somewhat Approve,Well-informed
+Female,50,45-54,Independent,Moderate,Graduate degree,Asian,Strongly Disapprove,Not Very Well-informed
+Male,50,45-54,DK/REF,Moderate,High school or less,White,Neither approve nor disapprove,Not Very Well-informed
+Male,84,65+,Strong Republican,Strong Conservative,Graduate degree,White,Neither approve nor disapprove,Not Very Well-informed
+Female,75,65+,Not very Strong Republican,Not Very Strong Conservative,Some college,White,Neither approve nor disapprove,Well-informed
+Female,75,65+,Strong Republican,Moderate,High school or less,White,Strongly Approve,Not Very Well-informed
+Male,56,55-64,Independent,Moderate,College degree,White,Neither approve nor disapprove,Well-informed
+Male,82,65+,Strong Republican,Strong Conservative,Graduate degree,White,Somewhat Approve,Not Very Well-informed
+Female,57,55-64,Independent,Moderate,Graduate degree,White,Neither approve nor disapprove,Well-informed
+Male,68,65+,Strong Republican,Not Very Strong Liberal,Some college,White,Strongly Approve,Well-informed
+Female,72,65+,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,91,65+,DK/REF,Not Very Strong Conservative,High school or less,White,Strongly Approve,Not Very Well-informed
+Female,66,65+,Strong Republican,Strong Conservative,College degree,White,Somewhat Approve,DK/REF
+Female,65,65+,Not very Strong Republican,Moderate,College degree,White,Somewhat Approve,Well-informed
+Female,63,55-64,Independent,Moderate,Some college,White,Strongly Disapprove,Well-informed
+Female,59,55-64,DK/REF,DK/REF,Some college,White,Strongly Disapprove,Not Very Well-informed
+Female,77,65+,Not very Strong Republican,Moderate,High school or less,White,Neither approve nor disapprove,Not Very Well-informed
+Female,69,65+,Independent,Not Very Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,79,65+,Not very Strong Republican,Not Very Strong Conservative,High school or less,White,Neither approve nor disapprove,Not Very Well-informed
+Female,67,65+,Strong Republican,Moderate,Some college,White,Strongly Approve,Not Very Well-informed
+Female,50,45-54,Independent,Moderate,Some college,White,Somewhat Approve,Not Very Well-informed
+Female,82,65+,DK/REF,Strong Conservative,High school or less,White,Somewhat Approve,DK/REF
+Female,54,45-54,Independent,Not Very Strong Conservative,Some college,White,Strongly Approve,Not Very Well-informed
+Male,58,55-64,Independent,Not Very Strong Conservative,Graduate degree,White,Somewhat Approve,Well-informed
+DK/REF,80,65+,DK/REF,DK/REF,High school or less,White,DK/REF,DK/REF
+DK/REF,99,65+,Independent,DK/REF,High school or less,DK/REF,DK/REF,Well-informed
+Male,75,65+,Strong Republican,Moderate,High school or less,White,Strongly Approve,Not Very Well-informed
+Male,87,65+,Not Very strong Democrat,Moderate,Graduate degree,White,Neither approve nor disapprove,Well-informed
+Female,55,55-64,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Male,63,55-64,Independent,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Male,23,18-24,Independent,Moderate,High school or less,White,Somewhat Approve,Not Very Well-informed
+Male,61,55-64,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Female,39,35-44,Independent,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,70,65+,DK/REF,DK/REF,High school or less,Latino,Strongly Disapprove,DK/REF
+Female,54,45-54,Strong Republican,Not Very Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Male,49,45-54,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Male,60,55-64,Strong Democrat,Not Very Strong Conservative,Graduate degree,Black,Strongly Disapprove,Not Very Well-informed
+Male,23,18-24,Independent,Moderate,Some college,DK/REF,Strongly Disapprove,Not Very Well-informed
+Female,73,65+,Not Very strong Democrat,Moderate,College degree,White,Strongly Disapprove,Not Very Well-informed
+Female,71,65+,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,19,18-24,Not Very strong Democrat,Strong Liberal,Some college,White,Strongly Disapprove,Well-informed
+Male,58,55-64,Strong Republican,Strong Conservative,Other :SPECIFY,White,Strongly Approve,Not Very Well-informed
+Female,48,45-54,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,77,65+,Strong Democrat,Moderate,College degree,White,Strongly Disapprove,Not Very Well-informed
+Male,26,25-34,Independent,DK/REF,High school or less,Latino,Neither approve nor disapprove,Not Very Well-informed
+Female,69,65+,Strong Democrat,Strong Liberal,Some college,White,Strongly Disapprove,Well-informed
+Female,76,65+,DK/REF,Moderate,High school or less,White,DK/REF,Well-informed
+Male,70,65+,Independent,Not Very Strong Liberal,College degree,Black,Strongly Disapprove,Well-informed
+Male,63,55-64,Strong Republican,Strong Conservative,Graduate degree,Latino,Strongly Approve,Well-informed
+Male,49,45-54,Not very Strong Republican,Not Very Strong Conservative,Some college,Latino,Somewhat Approve,Not Very Well-informed
+Male,65,65+,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Male,54,45-54,DK/REF,DK/REF,High school or less,White,DK/REF,Not Very Well-informed
+Male,34,25-34,Independent,Moderate,College degree,White,Strongly Disapprove,Not Very Well-informed
+Female,64,55-64,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,47,45-54,Independent,Moderate,Some college,White,Somewhat Approve,Not Very Well-informed
+Male,18,18-24,Strong Republican,DK/REF,College degree,White,Strongly Approve,Well-informed
+Female,66,65+,Strong Democrat,Strong Conservative,Some college,Black,Strongly Disapprove,Not Very Well-informed
+Female,35,35-44,Strong Democrat,Strong Liberal,Graduate degree,Asian,Strongly Disapprove,Well-informed
+Female,82,65+,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Male,60,55-64,Strong Democrat,Strong Conservative,Some college,White,Strongly Approve,Not Very Well-informed
+Male,50,45-54,Independent,Moderate,Graduate degree,White,Strongly Approve,Well-informed
+Female,65,65+,Not Very strong Democrat,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Male,80,65+,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Approve,Well-informed
+Male,65,65+,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,46,45-54,Strong Democrat,Strong Conservative,College degree,Black,Strongly Disapprove,Well-informed
+Female,80,65+,Strong Democrat,DK/REF,High school or less,Black,Strongly Disapprove,Well-informed
+Male,71,65+,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,77,65+,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Male,78,65+,Strong Democrat,Moderate,High school or less,White,Strongly Disapprove,Well-informed
+Female,60,55-64,DK/REF,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,50,45-54,Independent,Moderate,High school or less,White,Strongly Disapprove,Not Very Well-informed
+Female,50,45-54,Not Very strong Democrat,Moderate,High school or less,Latino,Somewhat Disapprove,Well-informed
+Female,60,55-64,Independent,Not Very Strong Conservative,Graduate degree,Asian,Neither approve nor disapprove,Not Very Well-informed
+Female,80,65+,Strong Democrat,Moderate,Some college,White,DK/REF,Well-informed
+Male,50,45-54,Strong Democrat,DK/REF,High school or less,Black,Strongly Disapprove,Well-informed
+Male,74,65+,Strong Republican,DK/REF,High school or less,White,Strongly Approve,DK/REF
+Male,83,65+,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,72,65+,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,82,65+,Strong Democrat,DK/REF,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,75,65+,Not Very strong Democrat,Moderate,Some college,Latino,Somewhat Disapprove,Not Very Well-informed
+Female,75,65+,Strong Democrat,Strong Liberal,High school or less,Black,Strongly Disapprove,Not Very Well-informed
+Male,74,65+,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Female,76,65+,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Male,66,65+,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,70,65+,Strong Democrat,DK/REF,Graduate degree,Black,Strongly Disapprove,Well-informed
+Male,35,35-44,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,70,65+,Independent,Moderate,High school or less,White,DK/REF,Not Very Well-informed
+Female,55,55-64,Strong Republican,Strong Conservative,Graduate degree,Black,Somewhat Approve,Well-informed
+Female,62,55-64,Strong Democrat,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Female,30,25-34,Independent,Strong Liberal,Other :SPECIFY,DK/REF,Strongly Disapprove,Not Very Well-informed
+Male,69,65+,Strong Democrat,Moderate,Graduate degree,Black,Strongly Disapprove,Well-informed
+Male,74,65+,Independent,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Female,77,65+,Strong Democrat,Strong Conservative,High school or less,Black,Strongly Disapprove,Well-informed
+Female,75,65+,Independent,Strong Liberal,Some college,White,Neither approve nor disapprove,Not Very Well-informed
+Female,78,65+,Not very Strong Republican,Moderate,Some college,White,Strongly Disapprove,Not Very Well-informed
+Female,77,65+,Strong Democrat,Not Very Strong Liberal,High school or less,White,Somewhat Disapprove,Not Very Well-informed
+Male,66,65+,DK/REF,Strong Conservative,College degree,White,Somewhat Approve,Well-informed
+Female,74,65+,Strong Democrat,Not Very Strong Liberal,College degree,Black,Strongly Disapprove,Well-informed
+Female,89,65+,Strong Republican,Moderate,Some college,White,Strongly Approve,DK/REF
+Male,77,65+,Independent,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Female,82,65+,DK/REF,DK/REF,Some college,White,DK/REF,Not Very Well-informed
+Female,64,55-64,Independent,Moderate,High school or less,White,Neither approve nor disapprove,Well-informed
+Female,63,55-64,Independent,Moderate,Some college,White,Neither approve nor disapprove,Well-informed
+Female,66,65+,Independent,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Male,73,65+,Strong Democrat,Not Very Strong Liberal,High school or less,White,Somewhat Disapprove,Well-informed
+Female,32,25-34,Independent,Moderate,High school or less,White,Strongly Disapprove,Well-informed
+Female,67,65+,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,45,45-54,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Not Very Well-informed
+Male,76,65+,Strong Republican,DK/REF,Some college,White,Strongly Approve,Well-informed
+Female,53,45-54,Not Very strong Democrat,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Male,56,55-64,Independent,Strong Conservative,High school or less,White,Strongly Approve,Not Very Well-informed
+Male,57,55-64,Strong Republican,Moderate,Graduate degree,White,Strongly Approve,Well-informed
+Male,91,65+,Not Very strong Democrat,Moderate,College degree,White,Strongly Disapprove,Not Very Well-informed
+Female,99,65+,Strong Democrat,Moderate,High school or less,White,Strongly Disapprove,Well-informed
+Female,75,65+,DK/REF,Not Very Strong Conservative,Graduate degree,White,Somewhat Approve,Well-informed
+Female,84,65+,Independent,Not Very Strong Conservative,Some college,White,Strongly Approve,Not Very Well-informed
+Female,70,65+,Strong Democrat,Not Very Strong Liberal,Graduate degree,DK/REF,Strongly Disapprove,Well-informed
+Female,68,65+,Independent,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,68,65+,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,69,65+,Strong Republican,Not Very Strong Conservative,Graduate degree,White,Neither approve nor disapprove,Well-informed
+Male,43,35-44,Not Very strong Democrat,Not Very Strong Liberal,Graduate degree,Latino,Strongly Disapprove,Not Very Well-informed
+Male,28,25-34,DK/REF,Not Very Strong Liberal,Some college,White,Strongly Approve,Not Very Well-informed
+Male,61,55-64,Strong Democrat,Strong Liberal,Some college,Latino,Strongly Disapprove,Well-informed
+Female,70,65+,Strong Republican,Moderate,Some college,White,Somewhat Approve,Not Very Well-informed
+Male,20,18-24,DK/REF,Moderate,Some college,DK/REF,Strongly Approve,Well-informed
+Male,51,45-54,Not Very strong Democrat,Moderate,High school or less,Black,Somewhat Disapprove,Well-informed
+Male,40,35-44,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,56,55-64,Independent,Strong Liberal,Some college,White,Strongly Disapprove,Well-informed
+Female,43,35-44,Strong Democrat,Moderate,College degree,White,Neither approve nor disapprove,Not Very Well-informed
+Female,73,65+,Not Very strong Democrat,Moderate,High school or less,Latino,Neither approve nor disapprove,Not Very Well-informed
+Male,71,65+,Strong Democrat,Strong Liberal,College degree,Latino,Strongly Disapprove,Well-informed
+Female,88,65+,Strong Republican,Strong Conservative,High school or less,White,Somewhat Approve,Well-informed
+Female,60,55-64,Strong Democrat,Not Very Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,74,65+,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,56,55-64,Strong Democrat,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Male,49,45-54,Strong Democrat,Strong Liberal,Graduate degree,DK/REF,Strongly Disapprove,Well-informed
+Male,67,65+,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Male,47,45-54,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Other,69,65+,DK/REF,DK/REF,DK/REF,DK/REF,Neither approve nor disapprove,Not Very Well-informed
+Female,76,65+,DK/REF,Moderate,College degree,White,Strongly Disapprove,Well-informed
+DK/REF,88,65+,Strong Democrat,Moderate,High school or less,White,Strongly Disapprove,Not Very Well-informed
+Male,46,45-54,Not very Strong Republican,Moderate,Graduate degree,White,Somewhat Approve,Well-informed
+Female,50,45-54,Not very Strong Republican,Strong Conservative,Some college,White,Somewhat Approve,Well-informed
+Male,35,35-44,Independent,DK/REF,College degree,White,Strongly Disapprove,Not Very Well-informed
+Male,73,65+,Independent,Moderate,High school or less,Latino,Somewhat Approve,Well-informed
+Male,72,65+,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,54,45-54,Strong Democrat,Moderate,Some college,Black,Strongly Disapprove,Not Very Well-informed
+Male,40,35-44,Strong Republican,Strong Conservative,Graduate degree,Black,Strongly Approve,Well-informed
+Male,66,65+,DK/REF,DK/REF,High school or less,White,Strongly Approve,Not Very Well-informed
+Female,53,45-54,Strong Democrat,Not Very Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,49,45-54,Not very Strong Republican,Moderate,Some college,White,Strongly Approve,Well-informed
+Female,72,65+,Independent,DK/REF,College degree,White,Strongly Approve,DK/REF
+Female,79,65+,DK/REF,DK/REF,High school or less,White,DK/REF,DK/REF
+Male,59,55-64,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,DK/REF
+Female,33,25-34,Not very Strong Republican,Moderate,College degree,White,Somewhat Approve,Not Very Well-informed
+Male,22,18-24,DK/REF,DK/REF,High school or less,White,DK/REF,Not Very Well-informed
+Male,81,65+,Strong Republican,Strong Conservative,Graduate degree,White,Somewhat Approve,Not Very Well-informed
+Male,65,65+,Independent,Moderate,College degree,Black,Strongly Disapprove,Well-informed
+Female,24,18-24,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,29,25-34,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,40,35-44,Strong Democrat,Not Very Strong Liberal,Some college,Black,Strongly Disapprove,Well-informed
+Female,80,65+,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,68,65+,Not very Strong Republican,Not Very Strong Conservative,Some college,White,Strongly Approve,Not Very Well-informed
+Male,21,18-24,Independent,Moderate,College degree,White,Neither approve nor disapprove,Not Very Well-informed
+Male,50,45-54,DK/REF,DK/REF,Other :SPECIFY,DK/REF,DK/REF,Well-informed
+Female,34,25-34,Independent,Moderate,College degree,Black,Strongly Disapprove,Well-informed
+Male,60,55-64,Strong Republican,Strong Conservative,College degree,Other: SPECIFY,Strongly Approve,Well-informed
+Male,25,25-34,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Male,67,65+,Strong Democrat,Not Very Strong Liberal,College degree,White,Strongly Disapprove,Not Very Well-informed
+Male,74,65+,Strong Democrat,Moderate,Some college,White,Strongly Disapprove,Well-informed
+Male,32,25-34,Independent,Not Very Strong Conservative,Graduate degree,White,Neither approve nor disapprove,Well-informed
+Female,47,45-54,Not very Strong Republican,Moderate,College degree,White,Strongly Approve,Well-informed
+Female,80,65+,Strong Democrat,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Female,41,35-44,Independent,Strong Conservative,Graduate degree,White,Somewhat Approve,Well-informed
+Male,85,65+,DK/REF,DK/REF,Some college,Black,Somewhat Disapprove,Well-informed
+Male,50,45-54,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Male,55,55-64,Strong Republican,Strong Conservative,Graduate degree,White,Somewhat Approve,Well-informed
+Male,58,55-64,Independent,Moderate,High school or less,Black,DK/REF,Well-informed
+Female,74,65+,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Not Very Well-informed
+Male,35,35-44,Independent,Strong Liberal,High school or less,Latino,Strongly Approve,Not Very Well-informed
+Female,53,45-54,Strong Democrat,DK/REF,College degree,DK/REF,Strongly Disapprove,Not Very Well-informed
+Female,29,25-34,DK/REF,DK/REF,Some college,White,DK/REF,Not Very Well-informed
+DK/REF,75,65+,DK/REF,Moderate,Graduate degree,Asian,Strongly Disapprove,Well-informed
+Female,65,65+,Independent,Moderate,Graduate degree,White,Strongly Approve,Well-informed
+Female,49,45-54,Independent,Moderate,Some college,White,Neither approve nor disapprove,Not Very Well-informed
+Male,62,55-64,Strong Republican,Strong Conservative,High school or less,White,Strongly Approve,Not Very Well-informed
+Male,77,65+,Independent,Moderate,Some college,White,Somewhat Disapprove,Well-informed
+Male,66,65+,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Male,65,65+,Independent,DK/REF,Some college,White,Strongly Disapprove,Well-informed
+Male,45,45-54,Independent,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Male,35,35-44,Independent,Moderate,High school or less,Latino,Neither approve nor disapprove,Well-informed
+Male,64,55-64,Independent,Not Very Strong Conservative,Some college,White,Somewhat Approve,Well-informed
+Male,41,35-44,Not Very strong Democrat,Moderate,Some college,Latino,Strongly Disapprove,Well-informed
+Male,73,65+,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Male,33,25-34,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Not Very Well-informed
+Female,44,35-44,Not very Strong Republican,DK/REF,College degree,White,Somewhat Disapprove,Not Very Well-informed
+Male,38,35-44,Independent,Not Very Strong Liberal,Some college,White,Strongly Disapprove,Not Very Well-informed
+Male,82,65+,Strong Republican,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Male,61,55-64,Independent,Strong Conservative,High school or less,White,Strongly Approve,Not Very Well-informed
+Female,60,55-64,Independent,Moderate,Graduate degree,White,Neither approve nor disapprove,Well-informed
+Female,70,65+,Strong Republican,Strong Conservative,Some college,Latino,Strongly Approve,Well-informed
+Female,44,35-44,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Male,65,65+,Independent,Not Very Strong Liberal,Some college,White,Strongly Disapprove,Well-informed
+Female,67,65+,Independent,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Female,55,55-64,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,50,45-54,Not very Strong Republican,Strong Conservative,College degree,White,Strongly Disapprove,Well-informed
+Female,58,55-64,Strong Democrat,Moderate,High school or less,Black,Strongly Disapprove,Not Very Well-informed
+Female,62,55-64,Strong Republican,Not Very Strong Conservative,College degree,White,Strongly Approve,Not Very Well-informed
+Female,58,55-64,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,81,65+,Not very Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,64,55-64,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Female,80,65+,Strong Democrat,Moderate,High school or less,White,DK/REF,Not Very Well-informed
+Female,92,65+,Strong Democrat,Not Very Strong Conservative,Some college,White,Strongly Disapprove,Not Very Well-informed
+Male,84,65+,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Male,85,65+,Strong Republican,Moderate,Graduate degree,White,Strongly Approve,Not Very Well-informed
+Female,73,65+,Strong Republican,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Female,50,45-54,DK/REF,Moderate,High school or less,White,Strongly Disapprove,Well-informed
+Female,32,25-34,Strong Democrat,Strong Liberal,Graduate degree,Asian,Strongly Disapprove,Well-informed
+Male,75,65+,Independent,DK/REF,DK/REF,White,Neither approve nor disapprove,Not Very Well-informed
+Female,57,55-64,Independent,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,75,65+,Strong Democrat,Strong Liberal,High school or less,White,Strongly Disapprove,Well-informed
+Other,90,65+,Strong Republican,Moderate,High school or less,White,Strongly Approve,Well-informed
+Female,40,35-44,Strong Democrat,DK/REF,High school or less,White,Strongly Disapprove,DK/REF
+Male,56,55-64,Independent,Moderate,College degree,Black,Strongly Disapprove,Well-informed
+Female,70,65+,Strong Republican,Moderate,Some college,White,Strongly Approve,Not Very Well-informed
+Male,33,25-34,Independent,DK/REF,College degree,Other: SPECIFY,Strongly Disapprove,Well-informed
+Female,62,55-64,Independent,Not Very Strong Conservative,Some college,White,Strongly Disapprove,Not Very Well-informed
+Female,70,65+,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,70,65+,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Female,32,25-34,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Not Very Well-informed
+Male,61,55-64,Strong Republican,Strong Conservative,College degree,White,Somewhat Approve,Well-informed
+Female,47,45-54,Independent,Strong Conservative,Graduate degree,White,Neither approve nor disapprove,Not Very Well-informed
+Male,47,45-54,Strong Republican,Strong Conservative,College degree,Other: SPECIFY,Strongly Approve,Well-informed
+Female,56,55-64,Strong Democrat,Strong Liberal,Some college,Other: SPECIFY,Strongly Disapprove,Well-informed
+Female,69,65+,Independent,Not Very Strong Conservative,Graduate degree,Latino,Somewhat Disapprove,Not Very Well-informed
+Female,74,65+,Strong Republican,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Male,46,45-54,Strong Republican,DK/REF,College degree,White,Strongly Approve,Not Very Well-informed
+Female,65,65+,Strong Democrat,Moderate,Some college,White,Somewhat Disapprove,Well-informed
+Female,66,65+,Strong Republican,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Female,41,35-44,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Female,48,45-54,Independent,Moderate,High school or less,White,Neither approve nor disapprove,Not Very Well-informed
+Female,50,45-54,Independent,Moderate,Graduate degree,White,Somewhat Approve,Not Very Well-informed
+Male,75,65+,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Female,20,18-24,Independent,Moderate,Some college,White,Neither approve nor disapprove,Well-informed
+Female,61,55-64,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,53,45-54,Strong Democrat,Moderate,Other :SPECIFY,Other: SPECIFY,Strongly Disapprove,Not Very Well-informed
+Female,34,25-34,Not very Strong Republican,Not Very Strong Conservative,College degree,White,Somewhat Approve,Well-informed
+Male,40,35-44,Strong Democrat,Strong Liberal,Graduate degree,Black,Strongly Disapprove,Well-informed
+Female,76,65+,Independent,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Female,57,55-64,Strong Republican,Strong Conservative,Graduate degree,DK/REF,Strongly Approve,Well-informed
+Male,67,65+,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Male,61,55-64,Independent,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Male,47,45-54,Strong Republican,Moderate,Some college,White,Strongly Approve,Not Very Well-informed
+Male,53,45-54,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Not Very Well-informed
+Female,75,65+,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Not Very Well-informed
+Male,36,35-44,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,60,55-64,Strong Democrat,Moderate,Some college,White,Strongly Disapprove,Well-informed
+Male,18,18-24,Not Very strong Democrat,Moderate,High school or less,Latino,Strongly Disapprove,Not Very Well-informed
+Male,32,25-34,Not Very strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,65,65+,Strong Republican,Moderate,High school or less,White,Somewhat Approve,Not Very Well-informed
+Female,68,65+,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,68,65+,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,66,65+,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+DK/REF,82,65+,Strong Democrat,DK/REF,High school or less,Black,DK/REF,Not Very Well-informed
+Male,68,65+,Strong Democrat,Strong Liberal,Some college,White,Strongly Disapprove,Not Very Well-informed
+Female,76,65+,Strong Democrat,Moderate,High school or less,Black,Somewhat Disapprove,Well-informed
+Male,61,55-64,Strong Republican,Moderate,Graduate degree,White,Strongly Approve,Not Very Well-informed
+Male,56,55-64,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,89,65+,Not Very strong Democrat,DK/REF,High school or less,White,DK/REF,Not Very Well-informed
+Male,47,45-54,Strong Democrat,Strong Liberal,Graduate degree,Black,Strongly Disapprove,Well-informed
+Female,84,65+,Independent,Moderate,High school or less,White,Strongly Disapprove,Not Very Well-informed
+Female,64,55-64,Strong Republican,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,59,55-64,Strong Democrat,Strong Liberal,College degree,Black,Strongly Disapprove,Well-informed
+Male,55,55-64,DK/REF,Moderate,Graduate degree,White,Somewhat Disapprove,Well-informed
+Female,67,65+,Strong Democrat,Strong Liberal,Some college,White,Strongly Disapprove,Well-informed
+Female,78,65+,Strong Democrat,Moderate,High school or less,Black,Strongly Disapprove,Well-informed
+Female,71,65+,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Female,85,65+,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,DK/REF
+Female,50,45-54,Independent,Not Very Strong Liberal,High school or less,White,Somewhat Approve,Well-informed
+Male,78,65+,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,52,45-54,Strong Democrat,Moderate,Graduate degree,Black,Somewhat Disapprove,Well-informed
+Female,77,65+,Independent,DK/REF,High school or less,White,Somewhat Approve,Not Very Well-informed
+Male,38,35-44,Independent,Moderate,Some college,White,Strongly Disapprove,Well-informed
+Female,67,65+,Independent,Not Very Strong Conservative,Some college,White,Strongly Disapprove,Not Very Well-informed
+Male,61,55-64,Strong Republican,Moderate,High school or less,White,Strongly Approve,Not Very Well-informed
+Male,39,35-44,Strong Democrat,Moderate,Graduate degree,Asian,Strongly Disapprove,Well-informed
+Male,75,65+,Independent,Moderate,College degree,White,Strongly Approve,Not Very Well-informed
+Female,74,65+,Strong Republican,Strong Conservative,High school or less,White,Somewhat Approve,Well-informed
+Female,66,65+,Strong Republican,Strong Conservative,College degree,White,Somewhat Approve,Not Very Well-informed
+Male,85,65+,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,50,45-54,Strong Republican,Moderate,College degree,White,Strongly Approve,Well-informed
+Male,65,65+,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Male,89,65+,Strong Democrat,Strong Liberal,College degree,DK/REF,Strongly Disapprove,Well-informed
+Male,59,55-64,Independent,Not Very Strong Conservative,College degree,White,Strongly Approve,Not Very Well-informed
+Female,58,55-64,Strong Democrat,Not Very Strong Liberal,Graduate degree,Latino,Strongly Disapprove,Well-informed
+Female,75,65+,Independent,Moderate,Some college,White,Somewhat Disapprove,Well-informed
+Male,58,55-64,Strong Republican,DK/REF,High school or less,White,Strongly Approve,Well-informed
+Male,58,55-64,Strong Republican,Moderate,Some college,White,Strongly Approve,Well-informed
+Male,47,45-54,Strong Republican,Strong Conservative,Graduate degree,Latino,Strongly Approve,Well-informed
+Female,35,35-44,Strong Democrat,Moderate,College degree,Black,Strongly Disapprove,Not Very Well-informed
+Female,54,45-54,Independent,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Female,73,65+,Strong Republican,Strong Conservative,Other :SPECIFY,White,Strongly Approve,Well-informed
+Female,68,65+,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,64,55-64,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Female,69,65+,Strong Democrat,Strong Liberal,Some college,White,Strongly Disapprove,Well-informed
+Female,54,45-54,Independent,Not Very Strong Conservative,Graduate degree,White,Neither approve nor disapprove,Well-informed
+Male,83,65+,Independent,Moderate,Graduate degree,White,Somewhat Disapprove,Well-informed
+Female,62,55-64,Independent,Moderate,College degree,White,Strongly Approve,Well-informed
+Female,53,45-54,Strong Democrat,Moderate,Some college,Latino,Strongly Disapprove,Not Very Well-informed
+Female,71,65+,Independent,Moderate,Graduate degree,White,Neither approve nor disapprove,Well-informed
+Female,74,65+,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,50,45-54,Independent,Moderate,College degree,DK/REF,Neither approve nor disapprove,Well-informed
+Male,58,55-64,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,96,65+,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Not Very Well-informed
+Female,59,55-64,Independent,Not Very Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Female,55,55-64,Strong Democrat,Strong Liberal,Graduate degree,DK/REF,Strongly Disapprove,Well-informed
+Female,75,65+,DK/REF,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,63,55-64,Not Very strong Democrat,Strong Liberal,Some college,White,Strongly Disapprove,Not Very Well-informed
+Female,54,45-54,Not very Strong Republican,Moderate,High school or less,White,Somewhat Approve,Not Very Well-informed
+Male,60,55-64,Not Very strong Democrat,Not Very Strong Conservative,Some college,White,Somewhat Approve,Not Very Well-informed
+Male,50,45-54,Strong Republican,DK/REF,Some college,Black,Strongly Approve,Well-informed
+Female,76,65+,DK/REF,Moderate,High school or less,White,Strongly Disapprove,Not Very Well-informed
+Female,70,65+,Independent,Strong Conservative,College degree,White,Somewhat Approve,Well-informed
+Male,80,65+,Strong Republican,DK/REF,Some college,White,Somewhat Approve,Well-informed
+Female,82,65+,Independent,Moderate,College degree,White,DK/REF,Well-informed
+Female,45,45-54,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Female,73,65+,Independent,Moderate,Graduate degree,White,Strongly Approve,Well-informed
+Other,90,65+,Independent,Not Very Strong Conservative,Some college,Black,Strongly Disapprove,Not Very Well-informed
+Female,56,55-64,Not Very strong Democrat,DK/REF,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,70,65+,DK/REF,Moderate,High school or less,Black,DK/REF,Not Very Well-informed
+Female,71,65+,Strong Republican,Moderate,Some college,White,Strongly Approve,Well-informed
+Male,70,65+,Strong Republican,Strong Conservative,Other :SPECIFY,White,Strongly Approve,DK/REF
+Male,82,65+,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Female,76,65+,Not Very strong Democrat,Moderate,Some college,Asian,Strongly Disapprove,Well-informed
+Female,72,65+,Strong Republican,Moderate,Some college,White,Somewhat Approve,Well-informed
+Male,26,25-34,Not Very strong Democrat,Not Very Strong Liberal,Some college,White,Somewhat Disapprove,Well-informed
+Female,65,65+,Independent,DK/REF,High school or less,White,Somewhat Approve,Not Very Well-informed
+Female,40,35-44,Not very Strong Republican,Strong Conservative,Other :SPECIFY,White,Somewhat Approve,Well-informed
+Male,54,45-54,Independent,Moderate,College degree,Other: SPECIFY,Somewhat Approve,Well-informed
+Female,44,35-44,Independent,Moderate,Graduate degree,White,Somewhat Disapprove,Not Very Well-informed
+Male,62,55-64,Not very Strong Republican,Not Very Strong Liberal,College degree,White,Somewhat Approve,Not Very Well-informed
+Female,81,65+,DK/REF,DK/REF,Some college,White,DK/REF,Well-informed
+Female,45,45-54,DK/REF,DK/REF,DK/REF,Asian,Neither approve nor disapprove,Not Very Well-informed
+Male,47,45-54,Not very Strong Republican,Moderate,Some college,Other: SPECIFY,Somewhat Approve,Well-informed
+DK/REF,54,45-54,Independent,Moderate,College degree,White,Somewhat Approve,Not Very Well-informed
+Male,37,35-44,Not Very strong Democrat,Strong Conservative,Some college,White,Somewhat Approve,Not Very Well-informed
+Female,41,35-44,Independent,Strong Conservative,College degree,White,Somewhat Approve,Not Very Well-informed
+Male,36,35-44,Independent,Not Very Strong Liberal,Some college,Black,Strongly Disapprove,Well-informed
+Male,54,45-54,Strong Democrat,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Male,67,65+,Independent,Moderate,Some college,White,Neither approve nor disapprove,Well-informed
+Female,47,45-54,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,83,65+,Independent,Moderate,Some college,White,Somewhat Approve,Not Very Well-informed
+Female,53,45-54,Independent,Strong Liberal,Some college,White,Strongly Disapprove,Not Very Well-informed
+Male,21,18-24,DK/REF,Not Very Strong Liberal,Some college,DK/REF,Somewhat Approve,Not Very Well-informed
+Female,74,65+,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Female,60,55-64,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Male,68,65+,Strong Republican,Strong Conservative,Graduate degree,White,Strongly Approve,DK/REF
+Male,30,25-34,Independent,Moderate,Some college,White,Strongly Disapprove,Well-informed
+Male,43,35-44,DK/REF,Moderate,College degree,Black,Strongly Disapprove,Not Very Well-informed
+Male,30,25-34,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,53,45-54,Independent,Moderate,Some college,Black,Strongly Disapprove,Well-informed
+Female,20,18-24,Independent,DK/REF,High school or less,White,Neither approve nor disapprove,Not Very Well-informed
+Male,48,45-54,Not very Strong Republican,Moderate,College degree,Latino,Strongly Disapprove,Well-informed
+Female,48,45-54,Strong Republican,Moderate,Graduate degree,Latino,Strongly Approve,Not Very Well-informed
+Female,35,35-44,Strong Democrat,Moderate,Some college,Latino,Strongly Disapprove,Not Very Well-informed
+Female,65,65+,Independent,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,49,45-54,Strong Democrat,Not Very Strong Liberal,College degree,Black,Strongly Disapprove,Not Very Well-informed
+Male,40,35-44,Independent,Strong Conservative,Some college,Black,Neither approve nor disapprove,Well-informed
+Male,30,25-34,Independent,DK/REF,Graduate degree,Latino,Neither approve nor disapprove,Well-informed
+Male,50,45-54,Strong Republican,Not Very Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Male,70,65+,Strong Republican,Moderate,Graduate degree,White,Strongly Approve,Not Very Well-informed
+Male,40,35-44,Strong Republican,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Male,19,18-24,Independent,Not Very Strong Liberal,Some college,Black,Strongly Disapprove,Not Very Well-informed
+Female,43,35-44,Independent,Moderate,College degree,White,Neither approve nor disapprove,Not Very Well-informed
+Female,77,65+,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,79,65+,Not very Strong Republican,Not Very Strong Conservative,Some college,White,Somewhat Approve,Not Very Well-informed
+Female,43,35-44,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,65,65+,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,21,18-24,Strong Republican,Strong Conservative,High school or less,Latino,Strongly Approve,Not Very Well-informed
+Male,32,25-34,Independent,Strong Liberal,College degree,Black,Strongly Disapprove,Well-informed
+Female,73,65+,Not very Strong Republican,Strong Liberal,Some college,White,Strongly Disapprove,Well-informed
+Male,35,35-44,Independent,Moderate,Graduate degree,White,Strongly Disapprove,Not Very Well-informed
+Female,30,25-34,Independent,Moderate,Some college,White,DK/REF,Not Very Well-informed
+Male,40,35-44,Independent,Moderate,Graduate degree,White,Somewhat Approve,Well-informed
+Male,59,55-64,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,43,35-44,DK/REF,DK/REF,College degree,Black,Neither approve nor disapprove,Well-informed
+Female,55,55-64,Strong Democrat,Strong Liberal,College degree,Black,Strongly Disapprove,Well-informed
+Male,40,35-44,Independent,Moderate,Some college,White,Somewhat Approve,Not Very Well-informed
+Female,19,18-24,Not very Strong Republican,Not Very Strong Liberal,College degree,Asian,Somewhat Approve,Not Very Well-informed
+Female,54,45-54,Independent,Moderate,Some college,White,Strongly Disapprove,Well-informed
+Male,53,45-54,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Male,73,65+,Strong Democrat,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Female,33,25-34,Not Very strong Democrat,Not Very Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,69,65+,Strong Democrat,DK/REF,Some college,Black,DK/REF,Well-informed
+Male,19,18-24,Independent,Moderate,Some college,Latino,Somewhat Disapprove,Not Very Well-informed
+Female,62,55-64,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Not Very Well-informed
+Male,78,65+,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Male,62,55-64,Strong Democrat,Moderate,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,26,25-34,Independent,Not Very Strong Conservative,College degree,Black,Strongly Disapprove,Not Very Well-informed
+Male,50,45-54,Independent,Strong Conservative,Graduate degree,White,Strongly Disapprove,Not Very Well-informed
+Female,77,65+,Independent,Strong Conservative,High school or less,White,DK/REF,Not Very Well-informed
+Male,72,65+,DK/REF,DK/REF,Graduate degree,DK/REF,DK/REF,Not Very Well-informed
+Female,30,25-34,Strong Republican,Moderate,Graduate degree,White,Strongly Approve,Well-informed
+Male,60,55-64,DK/REF,DK/REF,High school or less,White,Somewhat Approve,Not Very Well-informed
+Female,60,55-64,Independent,Moderate,Graduate degree,DK/REF,DK/REF,Well-informed
+Female,59,55-64,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Not Very Well-informed
+Male,81,65+,DK/REF,Strong Conservative,Graduate degree,White,Strongly Approve,Well-informed
+Male,59,55-64,Strong Republican,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Female,66,65+,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Not Very Well-informed
+Female,33,25-34,Independent,Strong Liberal,College degree,White,Strongly Disapprove,Well-informed
+Female,78,65+,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Female,35,35-44,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Not Very Well-informed
+Male,56,55-64,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,63,55-64,Strong Republican,Strong Conservative,Graduate degree,White,Somewhat Approve,Well-informed
+Male,36,35-44,Independent,Moderate,Graduate degree,Latino,DK/REF,Well-informed
+Female,61,55-64,Not Very strong Democrat,Strong Liberal,High school or less,White,Somewhat Disapprove,Not Very Well-informed
+Female,67,65+,Independent,Strong Conservative,Some college,Black,Somewhat Approve,Not Very Well-informed
+Female,99,65+,Independent,Moderate,High school or less,White,Somewhat Approve,Well-informed
+Male,73,65+,Strong Republican,Strong Conservative,Graduate degree,DK/REF,Strongly Approve,Well-informed
+Female,88,65+,Strong Democrat,Moderate,High school or less,Black,Somewhat Approve,DK/REF
+Female,70,65+,Strong Democrat,Moderate,High school or less,Black,Somewhat Disapprove,Not Very Well-informed
+Female,43,35-44,Independent,Moderate,High school or less,White,Somewhat Approve,Not Very Well-informed
+Female,87,65+,Strong Democrat,DK/REF,High school or less,Black,Strongly Disapprove,DK/REF
+Male,85,65+,Strong Democrat,Strong Conservative,High school or less,White,DK/REF,DK/REF
+Male,81,65+,Independent,Not Very Strong Conservative,College degree,White,DK/REF,Not Very Well-informed
+Male,57,55-64,Not Very strong Democrat,Strong Conservative,Graduate degree,White,Somewhat Approve,Not Very Well-informed
+Female,92,65+,Strong Democrat,Moderate,Graduate degree,Black,Somewhat Approve,Well-informed
+Female,59,55-64,Strong Democrat,DK/REF,Some college,White,Strongly Disapprove,Well-informed
+Female,70,65+,Strong Democrat,DK/REF,Some college,Black,Strongly Disapprove,Not Very Well-informed
+Female,65,65+,Independent,Strong Liberal,Graduate degree,Asian,Strongly Disapprove,Well-informed
+Female,65,65+,Independent,Strong Liberal,Some college,White,DK/REF,Well-informed
+Female,85,65+,Strong Democrat,DK/REF,High school or less,White,DK/REF,DK/REF
+Male,75,65+,Independent,DK/REF,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,67,65+,Independent,Moderate,College degree,White,Somewhat Disapprove,Well-informed
+Female,64,55-64,Strong Democrat,Strong Conservative,College degree,White,Strongly Disapprove,Well-informed
+Female,27,25-34,Not Very strong Democrat,Not Very Strong Liberal,High school or less,White,Somewhat Disapprove,Not Very Well-informed
+Female,64,55-64,Independent,DK/REF,Graduate degree,Other: SPECIFY,Strongly Disapprove,Well-informed
+Female,70,65+,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,70,65+,Strong Republican,Moderate,College degree,White,Strongly Approve,Well-informed
+Male,54,45-54,Strong Democrat,Not Very Strong Liberal,Graduate degree,Black,Strongly Disapprove,Not Very Well-informed
+Male,23,18-24,Strong Republican,Moderate,College degree,White,Strongly Approve,Well-informed
+Female,47,45-54,Independent,Moderate,College degree,White,Somewhat Approve,Not Very Well-informed
+Female,58,55-64,Independent,Moderate,Some college,White,Neither approve nor disapprove,Well-informed
+Female,20,18-24,Strong Democrat,Strong Liberal,Some college,White,Strongly Disapprove,Well-informed
+Female,65,65+,DK/REF,Moderate,Graduate degree,White,DK/REF,Well-informed
+Female,64,55-64,Strong Democrat,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Female,84,65+,Strong Democrat,Moderate,High school or less,White,Strongly Disapprove,Not Very Well-informed
+Male,36,35-44,Independent,Not Very Strong Conservative,College degree,White,Somewhat Approve,Well-informed
+Female,25,25-34,Independent,Strong Liberal,College degree,White,Strongly Disapprove,Not Very Well-informed
+Male,24,18-24,Not Very strong Democrat,Moderate,College degree,White,Strongly Disapprove,Well-informed
+Male,51,45-54,Independent,Strong Conservative,High school or less,White,Neither approve nor disapprove,Well-informed
+Male,51,45-54,Not very Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Male,36,35-44,Independent,Strong Conservative,College degree,White,Strongly Approve,Not Very Well-informed
+Male,68,65+,Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Male,50,45-54,Strong Republican,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Female,47,45-54,Independent,Moderate,Graduate degree,White,Neither approve nor disapprove,Well-informed
+Female,34,25-34,Strong Republican,Moderate,Graduate degree,White,Neither approve nor disapprove,Well-informed
+Male,77,65+,Independent,Moderate,High school or less,White,Strongly Approve,Not Very Well-informed
+Female,46,45-54,Strong Republican,Strong Conservative,College degree,White,Strongly Approve,Well-informed
+Female,28,25-34,Independent,DK/REF,Graduate degree,Latino,Strongly Disapprove,Well-informed
+Male,69,65+,Not very Strong Republican,Strong Conservative,Some college,White,Strongly Approve,Well-informed
+Male,37,35-44,Independent,Moderate,College degree,Asian,Somewhat Approve,Not Very Well-informed
+Male,76,65+,DK/REF,Moderate,Some college,White,Somewhat Approve,Well-informed
+Male,48,45-54,Independent,Not Very Strong Conservative,Graduate degree,White,Neither approve nor disapprove,Well-informed
+Male,72,65+,Independent,Strong Conservative,High school or less,White,Strongly Approve,Well-informed
+Male,35,35-44,Independent,Moderate,Graduate degree,White,Neither approve nor disapprove,Well-informed
+Male,61,55-64,Strong Democrat,Strong Liberal,High school or less,Asian,Somewhat Approve,Not Very Well-informed
+Male,70,65+,Strong Democrat,Strong Liberal,Graduate degree,White,Strongly Disapprove,Well-informed
+Female,85,65+,Independent,Moderate,High school or less,White,Strongly Approve,Not Very Well-informed
+Female,51,45-54,DK/REF,Moderate,College degree,White,Strongly Disapprove,Well-informed
