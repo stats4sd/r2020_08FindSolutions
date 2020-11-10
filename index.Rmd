@@ -141,7 +141,7 @@ include_graphics("./images/Environment.PNG")
 
 ### Getting a better solution
 
-I can tell you now that `rbind()` is not necessary the function I would have chosen. It works well here, but there exists other functions that are more flexible, and so I'd tend to use these instead. It all depends on your needs. If you just need a quick one-time fix, just go for the first command that works for you. But if your think your problem is likely to come up regularly in various form, or you can sense that you will struggle to get what you really want, then, it may be worth spending a bit more time in your search, to find an equally good solution, but a solution that will save you time and effort in the long run.
+I can tell you now that `rbind()` is not necessarily the function I would have chosen. It works well here, but there exists other functions that are more flexible, and so I'd tend to use these instead. It all depends on your needs. If you just need a quick one-time fix, just go for the first command that works for you. But if your think your problem is likely to come up regularly in various form, or you can sense that you will struggle to get what you really want, then, it may be worth spending a bit more time in your search, to find an equally good solution, but a solution that will save you time and effort in the long run.
 
 In my case, I want to keep all my columns and I'd also like to have a column in my new data frame that keeps track of the origin of each row - ie: Pulse or Pulse2. I know with a bit of work I can achieve that with `rbind()`, but if I have a lot of different datasets to bind, it's going to be painful. And I'm sure you would realise that too after reading a bit more about `rbind()`.
 
@@ -237,10 +237,10 @@ And I got this:
 include_graphics("./images/findFn.PNG")
 ```
 
-A long list of functions, their respective packages, a brief description with a link to the help documentation, and you can rank the results by various scores. You can learn more about the package `sos` from its vignette <a href="https://cran.r-project.org/web/packages/sos/vignettes/sos.pdf" target="_blank">here</a>.
+A long list of functions, their respective packages, a brief description with a link to the help documentation, and you can sort the results by various scores. You can learn more about the package `sos` from its vignette <a href="https://cran.r-project.org/web/packages/sos/vignettes/sos.pdf" target="_blank">here</a>.
 
 
-Oh yeah, I didn't talk about vignettes. As we've seen, every descent package comes with at least a basic documentation of its functions that you can then access via `?`. But it is not very friendly and not useful at all if you don't know the function you want to use.  Developers are also encouraged to write long-form friendly guides called 'vignettes' that often take the form of a tutorial or article going over the most important capabilities of the package. When they exist - and they usually do for good packages - I find vignettes to be the best way to get a good idea of what a package has to offer. Typing "r vignette name-of-the-package" in your search engine will usually get you to its vignette(s). Otherwise, if you have the package installed on your computer, you can type this command:
+Oh yeah, I didn't talk about vignettes. As we've seen, every decent package comes with at least a basic documentation of its functions that you can then access via `?`. But it is not very friendly and not useful at all if you don't know the function you want to use.  Developers are also encouraged to write long-form friendly guides called 'vignettes' that often take the form of a tutorial or article going over the most important capabilities of the package. When they exist - and they usually do for good packages - I find vignettes to be the best way to get a good idea of what a package has to offer. Typing "r vignette name-of-the-package" in your search engine will usually get you to its vignette(s). Otherwise, if you have the package installed on your computer, you can type this command:
 
 ```
 vignette("name-of-the-package")
@@ -259,7 +259,7 @@ There are a few places where you can ask for help.
 
 The more or less *official* place to ask for help is the R-help mailing list. You send your question to `r-help@r-project.org` and some people from the R community will likely respond to you within a day or two, and sometimes just a couple of hours, depending on the question. You should subscribe to the mailing list <a href="https://stat.ethz.ch/mailman/listinfo/r-help" target="_blank">here</a> though. Otherwise you'll have to wait the approval of moderators.
 
-Also very important, read the <a href="https://www.r-project.org/posting-guide.html" target="_blank">posting guide page</a>! It may feel like too much effort for a simple question, but it's an investment for the future. You're building an expertise on how to ask questions that have good chances to receive useful answers. This will save you tons of time in the long run. Plus it helps the community of helper as well as all the people who will have similar problems and will be able to find a solution thanks to your nicely framed question. You'll make a ton of people grateful if you follow the guidelines!
+Also very important, read the <a href="https://www.r-project.org/posting-guide.html" target="_blank">posting guide page</a>! It may feel like too much effort for a simple question, but it's an investment for the future. You're building an expertise on how to ask questions that have good chances to receive useful answers. This will save you tons of time in the long run. Plus it helps the community of helpers as well as all the people who will have similar problems and will be able to find a solution thanks to your nicely framed question. You'll make a ton of people grateful if you follow the guidelines!
 
 
 **Stack Overflow**
@@ -278,7 +278,7 @@ In recent years, the RStudio community <a href="https://community.rstudio.com" t
 
 **People around you**
 
-What is nice with posting questions online is that you're helping the R community. But if somehow the above doesn't work for you, you can always ask around you. R is relatively popular now, so surely some colleagues, friends or teachers at the University should be able to help. And the other students who are taking part of this course may also be happy to help. If you don't manage to get help with all of that, it's probably that you're not asking your question well. Go back to the R-help or Stack Overflow guides on posting questions and try again!
+What is nice with posting questions online is that you're helping the R community. But if somehow the above doesn't work for you, you can always ask around you. R is quite popular now, so surely some colleagues, friends or teachers at the University should be able to help. And the other students who are taking part of this course may also be happy to help. If you don't manage to get help with all of that, it's probably that you're not asking your question well. Go back to the R-help or Stack Overflow guides on posting questions and try again!
 
 
 ## Appendix: The datasets
