@@ -34,7 +34,7 @@ That is not to say that the journey is over though. We've only covered a tiny fr
 
 ## Finding solutions online
 
-What is great with R is that it has a large community of very helpful people. So in general, for most problems related to R, it is possible to find a solution online. You can find solutions in many different places: Q&A sites, forums, blog posts, tutorials, package documentations, online books, cheatsheets, videos...
+What is great with R is that it has a large community of very helpful people. So in general, for most problems related to R, it is possible to find a solution online. You can find solutions in many different places: Q&A sites, forums, blog posts, tutorials, package documentations, online books, cheatsheets, videos, ...
 
 The simplest is usually to start with a search engine like <a href="https://www.google.co.uk/" target="_blank">Google</a>, or <a href="https://rseek.org/" target="_blank">Rseek</a>. For the former, since it is not R-specific, it is important to always add the letter `R` in your search.
 
